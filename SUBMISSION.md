@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Live app** | `LIVE_URL` |
+| **Live app** | **https://ajaia-docs-two-ochre.vercel.app** |
 | **Walkthrough video** | see [`VIDEO_URL.txt`](VIDEO_URL.txt) |
 | **Demo accounts** | `alice@ajaia.dev` (owner), `bob@ajaia.dev` (editor on “Q4 Planning”), `carol@ajaia.dev` (viewer on “Q4 Planning”). No passwords: pick a user on the sign-in page. |
 

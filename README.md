@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor: create, format, import and share documents, with autosave and conflict-safe editing.
 
-**Live demo:** `LIVE_URL` · **Stack:** Next.js 14 (App Router) · TypeScript · Tiptap · Drizzle ORM · Neon Postgres · Vercel
+**Live demo:** **https://ajaia-docs-two-ochre.vercel.app** · **Stack:** Next.js 14 (App Router) · TypeScript · Tiptap · Drizzle ORM · Neon Postgres · Vercel
 
 ## Try it in 2 minutes (no setup)
 
